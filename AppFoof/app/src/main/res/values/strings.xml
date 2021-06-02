@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="lbl_cupones">Cupones</string>
+    <string name="lbl_menu">Menú</string>
+    <string name="lbl_historial">Mis compras</string>
+    <string name="lbl_pedidos">Ordenar</string>
+    <string name="lbl_inicio">Inicio </string>
+    <string name="lbl_perfil">Perfil </string>
+    <string name="lbl_config">Configuración </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

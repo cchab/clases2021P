@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269036909251",
+    "project_id": "itescam2021",
+    "storage_bucket": "itescam2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269036909251:android:441b542c9270896203a876",
+        "android_client_info": {
+          "package_name": "chab.dog.dogoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269036909251-jgpqsl2gaesst54teoj4p9pmrhrn1qr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2KFUsfC_hU2coVjqIWk05EuVuoB9paJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269036909251-jgpqsl2gaesst54teoj4p9pmrhrn1qr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

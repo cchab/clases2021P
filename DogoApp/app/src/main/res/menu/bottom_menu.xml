@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/inicioFragment" android:title="@string/lbl_inicio" android:icon="@drawable/ic_home_black_24dp"/>
+    <item android:id="@+id/perfilFragment" android:title="@string/lbl_perfil" android:icon="@drawable/ic_person_black_24dp"/>
+    <item android:id="@+id/configuracionFragment" android:title="@string/lbl_config" android:icon="@drawable/ic_settings_black_24dp" />
+</menu>
